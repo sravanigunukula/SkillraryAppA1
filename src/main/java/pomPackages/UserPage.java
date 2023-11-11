@@ -41,6 +41,11 @@ package pomPackages;
 		public String getLastUserName() {
 			return lastUser.getText();
 		}
+
+		public String getSuccessMessage() {
+			// TODO Auto-generated method stub
+			return null;
+		}
 		
 
 }

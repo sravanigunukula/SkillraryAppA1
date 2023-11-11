@@ -67,6 +67,11 @@ public class AddNewCoursePage {
 	 public void clickSaveButton() {
 		 saveButton.click();
 	 }
+
+	public void uploadPhoto(String string) {
+		// TODO Auto-generated method stub
+		
+	}
 	 
 	 
 	
